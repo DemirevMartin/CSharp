@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\obj\Debug\Отпуснати кредити.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\obj\Debug\Отпуснати_кредити.MainForm.resources
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\obj\Debug\Отпуснати кредити.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\bin\Debug\Отпуснати кредити.exe
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\bin\Debug\Отпуснати кредити.pdb
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\obj\Debug\Отпуснати кредити.exe
+C:\Users\User\Desktop\Informatika\Отпуснати кредити\Отпуснати кредити\obj\Debug\Отпуснати кредити.pdb

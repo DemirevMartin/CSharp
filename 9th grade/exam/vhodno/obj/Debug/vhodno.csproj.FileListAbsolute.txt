@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\bin\Debug\vhodno.exe
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\bin\Debug\vhodno.pdb
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\obj\Debug\vhodno.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\obj\Debug\vhodno.MainForm.resources
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\obj\Debug\vhodno.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\obj\Debug\vhodno.exe
+C:\Users\User\Desktop\Informatika\vhodno\vhodno\obj\Debug\vhodno.pdb

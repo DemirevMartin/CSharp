@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Informatika\Tales\Tales\bin\Debug\Tales.exe
+C:\Users\User\Desktop\Informatika\Tales\Tales\bin\Debug\Tales.pdb
+C:\Users\User\Desktop\Informatika\Tales\Tales\obj\Debug\Tales.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Informatika\Tales\Tales\obj\Debug\Tales.MainForm.resources
+C:\Users\User\Desktop\Informatika\Tales\Tales\obj\Debug\Tales.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Informatika\Tales\Tales\obj\Debug\Tales.exe
+C:\Users\User\Desktop\Informatika\Tales\Tales\obj\Debug\Tales.pdb

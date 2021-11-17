@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\obj\Debug\Проект Посетители.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\obj\Debug\Проект_Посетители.MainForm.resources
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\obj\Debug\Проект Посетители.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\bin\Debug\Проект Посетители.exe
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\bin\Debug\Проект Посетители.pdb
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\obj\Debug\Проект Посетители.exe
+C:\Users\User\Desktop\Informatika\Проект Посетители\Проект Посетители\obj\Debug\Проект Посетители.pdb

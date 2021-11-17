@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\bin\Debug\Резултати от анкета.exe
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\bin\Debug\Резултати от анкета.pdb
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\obj\Debug\Резултати от анкета.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\obj\Debug\Резултати_от_анкета.MainForm.resources
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\obj\Debug\Резултати от анкета.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\obj\Debug\Резултати от анкета.exe
+C:\Users\User\Desktop\Informatika\Резултати от анкета\Резултати от анкета\obj\Debug\Резултати от анкета.pdb

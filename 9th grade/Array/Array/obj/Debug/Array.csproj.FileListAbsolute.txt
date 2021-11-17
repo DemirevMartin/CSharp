@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Informatika\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Informatika\Array\Array\obj\Debug\Array.MainForm.resources
+C:\Users\User\Desktop\Informatika\Array\Array\obj\Debug\Array.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Informatika\Array\Array\bin\Debug\Array.exe
+C:\Users\User\Desktop\Informatika\Array\Array\bin\Debug\Array.pdb
+C:\Users\User\Desktop\Informatika\Array\Array\obj\Debug\Array.exe
+C:\Users\User\Desktop\Informatika\Array\Array\obj\Debug\Array.pdb

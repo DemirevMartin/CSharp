@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vhodno", "vhodno\vhodno.csproj", "{3A3687BD-8784-4FB9-B318-257562A3806D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3687BD-8784-4FB9-B318-257562A3806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3687BD-8784-4FB9-B318-257562A3806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3687BD-8784-4FB9-B318-257562A3806D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3687BD-8784-4FB9-B318-257562A3806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
