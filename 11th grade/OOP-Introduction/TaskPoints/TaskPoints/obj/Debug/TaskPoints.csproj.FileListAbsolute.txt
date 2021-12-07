@@ -1,0 +1,6 @@
+C:\Users\mega\Desktop\11v 15\TaskPoints\TaskPoints\bin\Debug\TaskPoints.exe.config
+C:\Users\mega\Desktop\11v 15\TaskPoints\TaskPoints\bin\Debug\TaskPoints.exe
+C:\Users\mega\Desktop\11v 15\TaskPoints\TaskPoints\bin\Debug\TaskPoints.pdb
+C:\Users\mega\Desktop\11v 15\TaskPoints\TaskPoints\obj\Debug\TaskPoints.csprojResolveAssemblyReference.cache
+C:\Users\mega\Desktop\11v 15\TaskPoints\TaskPoints\obj\Debug\TaskPoints.exe
+C:\Users\mega\Desktop\11v 15\TaskPoints\TaskPoints\obj\Debug\TaskPoints.pdb

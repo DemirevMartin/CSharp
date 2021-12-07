@@ -1,0 +1,6 @@
+C:\Users\mega\Desktop\11в 15\Касов апарат\Касов апарат\obj\Debug\Касов апарат.csprojResolveAssemblyReference.cache
+C:\Users\mega\Desktop\11в 15\Касов апарат\Касов апарат\bin\Debug\Касов апарат.exe.config
+C:\Users\mega\Desktop\11в 15\Касов апарат\Касов апарат\bin\Debug\Касов апарат.exe
+C:\Users\mega\Desktop\11в 15\Касов апарат\Касов апарат\bin\Debug\Касов апарат.pdb
+C:\Users\mega\Desktop\11в 15\Касов апарат\Касов апарат\obj\Debug\Касов апарат.exe
+C:\Users\mega\Desktop\11в 15\Касов апарат\Касов апарат\obj\Debug\Касов апарат.pdb

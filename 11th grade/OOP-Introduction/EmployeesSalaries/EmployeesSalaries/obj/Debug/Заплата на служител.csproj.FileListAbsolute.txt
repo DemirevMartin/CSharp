@@ -1,0 +1,6 @@
+C:\Users\mega\Documents\11v 15\Заплата на служител\Заплата на служител\obj\Debug\Заплата на служител.csprojResolveAssemblyReference.cache
+C:\Users\mega\Documents\11v 15\Заплата на служител\Заплата на служител\bin\Debug\Заплата на служител.exe.config
+C:\Users\mega\Documents\11v 15\Заплата на служител\Заплата на служител\bin\Debug\Заплата на служител.exe
+C:\Users\mega\Documents\11v 15\Заплата на служител\Заплата на служител\bin\Debug\Заплата на служител.pdb
+C:\Users\mega\Documents\11v 15\Заплата на служител\Заплата на служител\obj\Debug\Заплата на служител.exe
+C:\Users\mega\Documents\11v 15\Заплата на служител\Заплата на служител\obj\Debug\Заплата на служител.pdb

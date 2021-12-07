@@ -1,0 +1,6 @@
+C:\Users\mega\Documents\11v 15\Parallelepiped 2.0\Parallelepiped 2.0\obj\Debug\Parallelepiped 2.0.csprojResolveAssemblyReference.cache
+C:\Users\mega\Documents\11v 15\Parallelepiped 2.0\Parallelepiped 2.0\bin\Debug\Parallelepiped 2.0.exe.config
+C:\Users\mega\Documents\11v 15\Parallelepiped 2.0\Parallelepiped 2.0\bin\Debug\Parallelepiped 2.0.exe
+C:\Users\mega\Documents\11v 15\Parallelepiped 2.0\Parallelepiped 2.0\bin\Debug\Parallelepiped 2.0.pdb
+C:\Users\mega\Documents\11v 15\Parallelepiped 2.0\Parallelepiped 2.0\obj\Debug\Parallelepiped 2.0.exe
+C:\Users\mega\Documents\11v 15\Parallelepiped 2.0\Parallelepiped 2.0\obj\Debug\Parallelepiped 2.0.pdb

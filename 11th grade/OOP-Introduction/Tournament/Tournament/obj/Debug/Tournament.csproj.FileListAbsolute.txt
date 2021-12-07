@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Турнир\Турнир\obj\Debug\Турнир.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Турнир\Турнир\bin\Debug\Турнир.exe
+C:\Users\User\Desktop\IT 11 class\Турнир\Турнир\bin\Debug\Турнир.pdb
+C:\Users\User\Desktop\IT 11 class\Турнир\Турнир\obj\Debug\Турнир.exe
+C:\Users\User\Desktop\IT 11 class\Турнир\Турнир\obj\Debug\Турнир.pdb

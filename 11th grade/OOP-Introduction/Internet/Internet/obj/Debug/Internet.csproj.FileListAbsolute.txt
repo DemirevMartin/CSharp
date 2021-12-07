@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Internet\Internet\bin\Debug\Internet.exe
+C:\Users\User\Desktop\IT 11 class\Internet\Internet\bin\Debug\Internet.pdb
+C:\Users\User\Desktop\IT 11 class\Internet\Internet\obj\Debug\Internet.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Internet\Internet\obj\Debug\Internet.exe
+C:\Users\User\Desktop\IT 11 class\Internet\Internet\obj\Debug\Internet.pdb

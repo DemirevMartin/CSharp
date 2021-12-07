@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\User\Desktop\IT 11 class\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\User\Desktop\IT 11 class\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\User\Desktop\IT 11 class\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

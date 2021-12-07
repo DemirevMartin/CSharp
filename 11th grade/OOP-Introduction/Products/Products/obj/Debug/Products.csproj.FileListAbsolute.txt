@@ -1,0 +1,6 @@
+C:\Users\mega\Desktop\11v 15\Изделия15\Изделия15\bin\Debug\Изделия15.exe.config
+C:\Users\mega\Desktop\11v 15\Изделия15\Изделия15\bin\Debug\Изделия15.exe
+C:\Users\mega\Desktop\11v 15\Изделия15\Изделия15\bin\Debug\Изделия15.pdb
+C:\Users\mega\Desktop\11v 15\Изделия15\Изделия15\obj\Debug\Изделия15.csprojResolveAssemblyReference.cache
+C:\Users\mega\Desktop\11v 15\Изделия15\Изделия15\obj\Debug\Изделия15.exe
+C:\Users\mega\Desktop\11v 15\Изделия15\Изделия15\obj\Debug\Изделия15.pdb

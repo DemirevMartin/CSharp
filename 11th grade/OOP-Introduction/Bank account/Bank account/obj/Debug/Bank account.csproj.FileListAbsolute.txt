@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Bank account\Bank account\obj\Debug\Bank account.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Bank account\Bank account\bin\Debug\Bank account.exe
+C:\Users\User\Desktop\IT 11 class\Bank account\Bank account\bin\Debug\Bank account.pdb
+C:\Users\User\Desktop\IT 11 class\Bank account\Bank account\obj\Debug\Bank account.exe
+C:\Users\User\Desktop\IT 11 class\Bank account\Bank account\obj\Debug\Bank account.pdb
