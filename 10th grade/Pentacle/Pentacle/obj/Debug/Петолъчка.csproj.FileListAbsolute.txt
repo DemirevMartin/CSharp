@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\obj\Debug\Петолъчка.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\obj\Debug\Петолъчка.MainForm.resources
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\obj\Debug\Петолъчка.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\bin\Debug\Петолъчка.exe
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\bin\Debug\Петолъчка.pdb
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\obj\Debug\Петолъчка.exe
+C:\Users\User\Desktop\IT 10class\Петолъчка\Петолъчка\obj\Debug\Петолъчка.pdb
