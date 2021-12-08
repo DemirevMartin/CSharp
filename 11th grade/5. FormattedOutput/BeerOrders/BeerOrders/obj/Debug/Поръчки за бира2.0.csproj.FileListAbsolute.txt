@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Поръчки за бира2.0\Поръчки за бира2.0\bin\Debug\Поръчки за бира2.0.exe
+C:\Users\User\Desktop\IT 11 class\Поръчки за бира2.0\Поръчки за бира2.0\bin\Debug\Поръчки за бира2.0.pdb
+C:\Users\User\Desktop\IT 11 class\Поръчки за бира2.0\Поръчки за бира2.0\obj\Debug\Поръчки за бира2.0.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Поръчки за бира2.0\Поръчки за бира2.0\obj\Debug\Поръчки за бира2.0.exe
+C:\Users\User\Desktop\IT 11 class\Поръчки за бира2.0\Поръчки за бира2.0\obj\Debug\Поръчки за бира2.0.pdb

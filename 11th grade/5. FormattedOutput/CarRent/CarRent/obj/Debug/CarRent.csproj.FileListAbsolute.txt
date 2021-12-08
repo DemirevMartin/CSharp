@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\CarRent\CarRent\obj\Debug\CarRent.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\CarRent\CarRent\bin\Debug\CarRent.exe
+C:\Users\User\Desktop\IT 11 class\CarRent\CarRent\bin\Debug\CarRent.pdb
+C:\Users\User\Desktop\IT 11 class\CarRent\CarRent\obj\Debug\CarRent.exe
+C:\Users\User\Desktop\IT 11 class\CarRent\CarRent\obj\Debug\CarRent.pdb
