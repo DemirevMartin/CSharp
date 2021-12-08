@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Medicaments\Medicaments\obj\Debug\Medicaments.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Medicaments\Medicaments\bin\Debug\Medicaments.exe
+C:\Users\User\Desktop\IT 11 class\Medicaments\Medicaments\bin\Debug\Medicaments.pdb
+C:\Users\User\Desktop\IT 11 class\Medicaments\Medicaments\obj\Debug\Medicaments.exe
+C:\Users\User\Desktop\IT 11 class\Medicaments\Medicaments\obj\Debug\Medicaments.pdb
