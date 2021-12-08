@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Lakes\Lakes\obj\Debug\Lakes.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Lakes\Lakes\bin\Debug\Lakes.exe
+C:\Users\User\Desktop\IT 11 class\Lakes\Lakes\bin\Debug\Lakes.pdb
+C:\Users\User\Desktop\IT 11 class\Lakes\Lakes\obj\Debug\Lakes.exe
+C:\Users\User\Desktop\IT 11 class\Lakes\Lakes\obj\Debug\Lakes.pdb

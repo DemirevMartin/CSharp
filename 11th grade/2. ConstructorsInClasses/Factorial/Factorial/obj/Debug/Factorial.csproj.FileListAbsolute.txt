@@ -1,0 +1,6 @@
+C:\Users\mega\Desktop\11в 15\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\mega\Desktop\11в 15\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\mega\Desktop\11в 15\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\mega\Desktop\11в 15\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\mega\Desktop\11в 15\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\mega\Desktop\11в 15\Factorial\Factorial\obj\Debug\Factorial.pdb

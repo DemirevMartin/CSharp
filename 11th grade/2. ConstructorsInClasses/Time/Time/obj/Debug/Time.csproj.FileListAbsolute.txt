@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Time\Time\bin\Debug\Time.exe
+C:\Users\User\Desktop\IT 11 class\Time\Time\bin\Debug\Time.pdb
+C:\Users\User\Desktop\IT 11 class\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Time\Time\obj\Debug\Time.exe
+C:\Users\User\Desktop\IT 11 class\Time\Time\obj\Debug\Time.pdb
