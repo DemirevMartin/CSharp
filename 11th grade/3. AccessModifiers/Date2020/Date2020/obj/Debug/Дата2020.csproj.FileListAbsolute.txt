@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Дата2020\Дата2020\obj\Debug\Дата2020.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Дата2020\Дата2020\bin\Debug\Дата2020.exe
+C:\Users\User\Desktop\IT 11 class\Дата2020\Дата2020\bin\Debug\Дата2020.pdb
+C:\Users\User\Desktop\IT 11 class\Дата2020\Дата2020\obj\Debug\Дата2020.exe
+C:\Users\User\Desktop\IT 11 class\Дата2020\Дата2020\obj\Debug\Дата2020.pdb
