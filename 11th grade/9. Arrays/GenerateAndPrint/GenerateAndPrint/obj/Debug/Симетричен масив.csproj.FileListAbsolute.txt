@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Симетричен масив\Симетричен масив\obj\Debug\Симетричен масив.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Симетричен масив\Симетричен масив\bin\Debug\Симетричен масив.exe.config
+C:\Users\zlati\Desktop\ИТ\Симетричен масив\Симетричен масив\bin\Debug\Симетричен масив.exe
+C:\Users\zlati\Desktop\ИТ\Симетричен масив\Симетричен масив\bin\Debug\Симетричен масив.pdb
+C:\Users\zlati\Desktop\ИТ\Симетричен масив\Симетричен масив\obj\Debug\Симетричен масив.exe
+C:\Users\zlati\Desktop\ИТ\Симетричен масив\Симетричен масив\obj\Debug\Симетричен масив.pdb

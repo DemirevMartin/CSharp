@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Над средното равнище\Над средното равнище\obj\Debug\Над средното равнище.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Над средното равнище\Над средното равнище\bin\Debug\Над средното равнище.exe.config
+C:\Users\zlati\Desktop\ИТ\Над средното равнище\Над средното равнище\bin\Debug\Над средното равнище.exe
+C:\Users\zlati\Desktop\ИТ\Над средното равнище\Над средното равнище\bin\Debug\Над средното равнище.pdb
+C:\Users\zlati\Desktop\ИТ\Над средното равнище\Над средното равнище\obj\Debug\Над средното равнище.exe
+C:\Users\zlati\Desktop\ИТ\Над средното равнище\Над средното равнище\obj\Debug\Над средното равнище.pdb

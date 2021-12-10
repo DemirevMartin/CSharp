@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Редица\Редица\obj\Debug\Редица.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Редица\Редица\bin\Debug\Редица.exe.config
+C:\Users\zlati\Desktop\ИТ\Редица\Редица\bin\Debug\Редица.exe
+C:\Users\zlati\Desktop\ИТ\Редица\Редица\bin\Debug\Редица.pdb
+C:\Users\zlati\Desktop\ИТ\Редица\Редица\obj\Debug\Редица.exe
+C:\Users\zlati\Desktop\ИТ\Редица\Редица\obj\Debug\Редица.pdb

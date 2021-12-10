@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Първото по-малко число\Първото по-малко число\bin\Debug\Първото по-малко число.exe.config
+C:\Users\zlati\Desktop\ИТ\Първото по-малко число\Първото по-малко число\bin\Debug\Първото по-малко число.exe
+C:\Users\zlati\Desktop\ИТ\Първото по-малко число\Първото по-малко число\bin\Debug\Първото по-малко число.pdb
+C:\Users\zlati\Desktop\ИТ\Първото по-малко число\Първото по-малко число\obj\Debug\Първото по-малко число.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Първото по-малко число\Първото по-малко число\obj\Debug\Първото по-малко число.exe
+C:\Users\zlati\Desktop\ИТ\Първото по-малко число\Първото по-малко число\obj\Debug\Първото по-малко число.pdb

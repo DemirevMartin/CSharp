@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\MinMaxNum\MinMaxNum\obj\Debug\MinMaxNum.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\MinMaxNum\MinMaxNum\bin\Debug\MinMaxNum.exe.config
+C:\Users\zlati\Desktop\ИТ\MinMaxNum\MinMaxNum\bin\Debug\MinMaxNum.exe
+C:\Users\zlati\Desktop\ИТ\MinMaxNum\MinMaxNum\bin\Debug\MinMaxNum.pdb
+C:\Users\zlati\Desktop\ИТ\MinMaxNum\MinMaxNum\obj\Debug\MinMaxNum.exe
+C:\Users\zlati\Desktop\ИТ\MinMaxNum\MinMaxNum\obj\Debug\MinMaxNum.pdb

@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Пренареждане на числа\Пренареждане на числа\bin\Debug\Пренареждане на числа.exe.config
+C:\Users\zlati\Desktop\ИТ\Пренареждане на числа\Пренареждане на числа\bin\Debug\Пренареждане на числа.exe
+C:\Users\zlati\Desktop\ИТ\Пренареждане на числа\Пренареждане на числа\bin\Debug\Пренареждане на числа.pdb
+C:\Users\zlati\Desktop\ИТ\Пренареждане на числа\Пренареждане на числа\obj\Debug\Пренареждане на числа.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Пренареждане на числа\Пренареждане на числа\obj\Debug\Пренареждане на числа.exe
+C:\Users\zlati\Desktop\ИТ\Пренареждане на числа\Пренареждане на числа\obj\Debug\Пренареждане на числа.pdb
