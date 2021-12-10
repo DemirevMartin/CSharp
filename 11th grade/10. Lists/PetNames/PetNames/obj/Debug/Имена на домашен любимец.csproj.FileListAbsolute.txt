@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Имена на домашен любимец\Имена на домашен любимец\obj\Debug\Имена на домашен любимец.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Имена на домашен любимец\Имена на домашен любимец\bin\Debug\Имена на домашен любимец.exe.config
+C:\Users\zlati\Desktop\ИТ\Имена на домашен любимец\Имена на домашен любимец\bin\Debug\Имена на домашен любимец.exe
+C:\Users\zlati\Desktop\ИТ\Имена на домашен любимец\Имена на домашен любимец\bin\Debug\Имена на домашен любимец.pdb
+C:\Users\zlati\Desktop\ИТ\Имена на домашен любимец\Имена на домашен любимец\obj\Debug\Имена на домашен любимец.exe
+C:\Users\zlati\Desktop\ИТ\Имена на домашен любимец\Имена на домашен любимец\obj\Debug\Имена на домашен любимец.pdb

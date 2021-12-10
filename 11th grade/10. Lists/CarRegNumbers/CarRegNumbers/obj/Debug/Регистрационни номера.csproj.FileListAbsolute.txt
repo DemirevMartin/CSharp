@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Регистрационни номера\Регистрационни номера\bin\Debug\Регистрационни номера.exe.config
+C:\Users\zlati\Desktop\ИТ\Регистрационни номера\Регистрационни номера\bin\Debug\Регистрационни номера.exe
+C:\Users\zlati\Desktop\ИТ\Регистрационни номера\Регистрационни номера\bin\Debug\Регистрационни номера.pdb
+C:\Users\zlati\Desktop\ИТ\Регистрационни номера\Регистрационни номера\obj\Debug\Регистрационни номера.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Регистрационни номера\Регистрационни номера\obj\Debug\Регистрационни номера.exe
+C:\Users\zlati\Desktop\ИТ\Регистрационни номера\Регистрационни номера\obj\Debug\Регистрационни номера.pdb

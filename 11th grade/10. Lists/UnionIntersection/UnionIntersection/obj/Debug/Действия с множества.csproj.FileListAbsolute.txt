@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Действия с множества\Действия с множества\bin\Debug\Действия с множества.exe.config
+C:\Users\zlati\Desktop\ИТ\Действия с множества\Действия с множества\bin\Debug\Действия с множества.exe
+C:\Users\zlati\Desktop\ИТ\Действия с множества\Действия с множества\bin\Debug\Действия с множества.pdb
+C:\Users\zlati\Desktop\ИТ\Действия с множества\Действия с множества\obj\Debug\Действия с множества.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Действия с множества\Действия с множества\obj\Debug\Действия с множества.exe
+C:\Users\zlati\Desktop\ИТ\Действия с множества\Действия с множества\obj\Debug\Действия с множества.pdb
