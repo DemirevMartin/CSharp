@@ -1,0 +1,6 @@
+C:\Users\mega\Desktop\11в 15\Лица\Лица\obj\Debug\Лица.csprojResolveAssemblyReference.cache
+C:\Users\mega\Desktop\11в 15\Лица\Лица\bin\Debug\Лица.exe.config
+C:\Users\mega\Desktop\11в 15\Лица\Лица\bin\Debug\Лица.exe
+C:\Users\mega\Desktop\11в 15\Лица\Лица\bin\Debug\Лица.pdb
+C:\Users\mega\Desktop\11в 15\Лица\Лица\obj\Debug\Лица.exe
+C:\Users\mega\Desktop\11в 15\Лица\Лица\obj\Debug\Лица.pdb

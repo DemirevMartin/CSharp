@@ -1,0 +1,6 @@
+C:\Users\mega\Desktop\11в 15\Игра на война\Игра на война\obj\Debug\Игра на война.csprojResolveAssemblyReference.cache
+C:\Users\mega\Desktop\11в 15\Игра на война\Игра на война\bin\Debug\Игра на война.exe.config
+C:\Users\mega\Desktop\11в 15\Игра на война\Игра на война\bin\Debug\Игра на война.exe
+C:\Users\mega\Desktop\11в 15\Игра на война\Игра на война\bin\Debug\Игра на война.pdb
+C:\Users\mega\Desktop\11в 15\Игра на война\Игра на война\obj\Debug\Игра на война.exe
+C:\Users\mega\Desktop\11в 15\Игра на война\Игра на война\obj\Debug\Игра на война.pdb

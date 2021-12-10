@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT 11 class\Age in words\Age in words\obj\Debug\Age in words.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IT 11 class\Age in words\Age in words\bin\Debug\Age in words.exe
+C:\Users\User\Desktop\IT 11 class\Age in words\Age in words\bin\Debug\Age in words.pdb
+C:\Users\User\Desktop\IT 11 class\Age in words\Age in words\obj\Debug\Age in words.exe
+C:\Users\User\Desktop\IT 11 class\Age in words\Age in words\obj\Debug\Age in words.pdb
