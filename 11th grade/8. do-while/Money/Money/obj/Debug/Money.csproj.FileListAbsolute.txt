@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Money\Money\bin\Debug\Money.exe.config
+C:\Users\zlati\Desktop\ИТ\Money\Money\bin\Debug\Money.exe
+C:\Users\zlati\Desktop\ИТ\Money\Money\bin\Debug\Money.pdb
+C:\Users\zlati\Desktop\ИТ\Money\Money\obj\Debug\Money.exe
+C:\Users\zlati\Desktop\ИТ\Money\Money\obj\Debug\Money.pdb

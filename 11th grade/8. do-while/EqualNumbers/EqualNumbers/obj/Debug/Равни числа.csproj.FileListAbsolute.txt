@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Равни числа\Равни числа\bin\Debug\Равни числа.exe.config
+C:\Users\zlati\Desktop\ИТ\Равни числа\Равни числа\bin\Debug\Равни числа.exe
+C:\Users\zlati\Desktop\ИТ\Равни числа\Равни числа\bin\Debug\Равни числа.pdb
+C:\Users\zlati\Desktop\ИТ\Равни числа\Равни числа\obj\Debug\Равни числа.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Равни числа\Равни числа\obj\Debug\Равни числа.exe
+C:\Users\zlati\Desktop\ИТ\Равни числа\Равни числа\obj\Debug\Равни числа.pdb
