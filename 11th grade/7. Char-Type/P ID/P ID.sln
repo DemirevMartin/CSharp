@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P ID", "P ID\P ID.csproj", "{2510825D-B2D0-4969-B54F-A028F9B0AA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2510825D-B2D0-4969-B54F-A028F9B0AA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2510825D-B2D0-4969-B54F-A028F9B0AA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2510825D-B2D0-4969-B54F-A028F9B0AA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2510825D-B2D0-4969-B54F-A028F9B0AA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Words2.0\Words2.0\bin\Debug\Words2.0.exe.config
+C:\Users\zlati\Desktop\ИТ\Words2.0\Words2.0\bin\Debug\Words2.0.exe
+C:\Users\zlati\Desktop\ИТ\Words2.0\Words2.0\bin\Debug\Words2.0.pdb
+C:\Users\zlati\Desktop\ИТ\Words2.0\Words2.0\obj\Debug\Words2.0.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Words2.0\Words2.0\obj\Debug\Words2.0.exe
+C:\Users\zlati\Desktop\ИТ\Words2.0\Words2.0\obj\Debug\Words2.0.pdb

@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\TextToNumbers\TextToNumbers\bin\Debug\TextToNumbers.exe.config
+C:\Users\zlati\Desktop\ИТ\TextToNumbers\TextToNumbers\bin\Debug\TextToNumbers.exe
+C:\Users\zlati\Desktop\ИТ\TextToNumbers\TextToNumbers\bin\Debug\TextToNumbers.pdb
+C:\Users\zlati\Desktop\ИТ\TextToNumbers\TextToNumbers\obj\Debug\TextToNumbers.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\TextToNumbers\TextToNumbers\obj\Debug\TextToNumbers.exe
+C:\Users\zlati\Desktop\ИТ\TextToNumbers\TextToNumbers\obj\Debug\TextToNumbers.pdb

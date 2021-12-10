@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\P ID\P ID\bin\Debug\P ID.exe.config
+C:\Users\zlati\Desktop\ИТ\P ID\P ID\bin\Debug\P ID.exe
+C:\Users\zlati\Desktop\ИТ\P ID\P ID\bin\Debug\P ID.pdb
+C:\Users\zlati\Desktop\ИТ\P ID\P ID\obj\Debug\P ID.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\P ID\P ID\obj\Debug\P ID.exe
+C:\Users\zlati\Desktop\ИТ\P ID\P ID\obj\Debug\P ID.pdb
