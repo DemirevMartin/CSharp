@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Cars\bin\Debug\Cars.exe.config
+C:\Users\zlati\Desktop\Информатика\Cars\bin\Debug\Cars.exe
+C:\Users\zlati\Desktop\Информатика\Cars\bin\Debug\Cars.pdb
+C:\Users\zlati\Desktop\Информатика\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Cars\obj\Debug\Cars.exe
+C:\Users\zlati\Desktop\Информатика\Cars\obj\Debug\Cars.pdb

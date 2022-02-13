@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Workers\obj\Debug\Workers.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Workers\bin\Debug\Workers.exe.config
+C:\Users\zlati\Desktop\Информатика\Workers\bin\Debug\Workers.exe
+C:\Users\zlati\Desktop\Информатика\Workers\bin\Debug\Workers.pdb
+C:\Users\zlati\Desktop\Информатика\Workers\obj\Debug\Workers.exe
+C:\Users\zlati\Desktop\Информатика\Workers\obj\Debug\Workers.pdb

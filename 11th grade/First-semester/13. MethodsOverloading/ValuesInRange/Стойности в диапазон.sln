@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стойности в диапазон", "Стойности в диапазон\Стойности в диапазон.csproj", "{4E0D495E-095C-44E1-8679-9237BAA07C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0D495E-095C-44E1-8679-9237BAA07C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0D495E-095C-44E1-8679-9237BAA07C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0D495E-095C-44E1-8679-9237BAA07C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0D495E-095C-44E1-8679-9237BAA07C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

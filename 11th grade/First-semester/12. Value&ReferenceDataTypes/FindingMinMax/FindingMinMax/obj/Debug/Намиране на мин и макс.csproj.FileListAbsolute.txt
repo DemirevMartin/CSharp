@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Намиране на мин и макс\Намиране на мин и макс\bin\Debug\Намиране на мин и макс.exe.config
+C:\Users\zlati\Desktop\ИТ\Намиране на мин и макс\Намиране на мин и макс\bin\Debug\Намиране на мин и макс.exe
+C:\Users\zlati\Desktop\ИТ\Намиране на мин и макс\Намиране на мин и макс\bin\Debug\Намиране на мин и макс.pdb
+C:\Users\zlati\Desktop\ИТ\Намиране на мин и макс\Намиране на мин и макс\obj\Debug\Намиране на мин и макс.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Намиране на мин и макс\Намиране на мин и макс\obj\Debug\Намиране на мин и макс.exe
+C:\Users\zlati\Desktop\ИТ\Намиране на мин и макс\Намиране на мин и макс\obj\Debug\Намиране на мин и макс.pdb

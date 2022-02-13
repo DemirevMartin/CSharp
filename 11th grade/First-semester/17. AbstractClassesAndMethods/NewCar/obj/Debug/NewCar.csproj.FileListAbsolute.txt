@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\NewCar\obj\Debug\NewCar.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\NewCar\bin\Debug\NewCar.exe.config
+C:\Users\zlati\Desktop\Информатика\NewCar\bin\Debug\NewCar.exe
+C:\Users\zlati\Desktop\Информатика\NewCar\bin\Debug\NewCar.pdb
+C:\Users\zlati\Desktop\Информатика\NewCar\obj\Debug\NewCar.exe
+C:\Users\zlati\Desktop\Информатика\NewCar\obj\Debug\NewCar.pdb

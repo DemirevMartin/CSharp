@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Stock\bin\Debug\Stock.exe.config
+C:\Users\zlati\Desktop\Информатика\Stock\bin\Debug\Stock.exe
+C:\Users\zlati\Desktop\Информатика\Stock\bin\Debug\Stock.pdb
+C:\Users\zlati\Desktop\Информатика\Stock\obj\Debug\Stock.exe
+C:\Users\zlati\Desktop\Информатика\Stock\obj\Debug\Stock.pdb

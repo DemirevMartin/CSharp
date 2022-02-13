@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Графика в конзолата\Графика в конзолата\obj\Debug\Графика в конзолата.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Графика в конзолата\Графика в конзолата\bin\Debug\Графика в конзолата.exe.config
+C:\Users\zlati\Desktop\ИТ\Графика в конзолата\Графика в конзолата\bin\Debug\Графика в конзолата.exe
+C:\Users\zlati\Desktop\ИТ\Графика в конзолата\Графика в конзолата\bin\Debug\Графика в конзолата.pdb
+C:\Users\zlati\Desktop\ИТ\Графика в конзолата\Графика в конзолата\obj\Debug\Графика в конзолата.exe
+C:\Users\zlati\Desktop\ИТ\Графика в конзолата\Графика в конзолата\obj\Debug\Графика в конзолата.pdb

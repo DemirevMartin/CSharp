@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\DataTransfer\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\DataTransfer\bin\Debug\DataTransfer.exe.config
+C:\Users\zlati\Desktop\Информатика\DataTransfer\bin\Debug\DataTransfer.exe
+C:\Users\zlati\Desktop\Информатика\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\Users\zlati\Desktop\Информатика\DataTransfer\obj\Debug\DataTransfer.exe
+C:\Users\zlati\Desktop\Информатика\DataTransfer\obj\Debug\DataTransfer.pdb

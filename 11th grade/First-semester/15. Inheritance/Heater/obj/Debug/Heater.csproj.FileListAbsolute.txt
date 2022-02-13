@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Heater\bin\Debug\Heater.exe.config
+C:\Users\zlati\Desktop\Информатика\Heater\bin\Debug\Heater.exe
+C:\Users\zlati\Desktop\Информатика\Heater\bin\Debug\Heater.pdb
+C:\Users\zlati\Desktop\Информатика\Heater\obj\Debug\Heater.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Heater\obj\Debug\Heater.exe
+C:\Users\zlati\Desktop\Информатика\Heater\obj\Debug\Heater.pdb

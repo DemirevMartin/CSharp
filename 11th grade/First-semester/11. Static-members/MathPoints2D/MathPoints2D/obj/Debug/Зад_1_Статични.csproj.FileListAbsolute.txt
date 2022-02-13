@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Зад_1_Статични\Зад_1_Статични\obj\Debug\Зад_1_Статични.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Зад_1_Статични\Зад_1_Статични\bin\Debug\Зад_1_Статични.exe.config
+C:\Users\zlati\Desktop\ИТ\Зад_1_Статични\Зад_1_Статични\bin\Debug\Зад_1_Статични.exe
+C:\Users\zlati\Desktop\ИТ\Зад_1_Статични\Зад_1_Статични\bin\Debug\Зад_1_Статични.pdb
+C:\Users\zlati\Desktop\ИТ\Зад_1_Статични\Зад_1_Статични\obj\Debug\Зад_1_Статични.exe
+C:\Users\zlati\Desktop\ИТ\Зад_1_Статични\Зад_1_Статични\obj\Debug\Зад_1_Статични.pdb

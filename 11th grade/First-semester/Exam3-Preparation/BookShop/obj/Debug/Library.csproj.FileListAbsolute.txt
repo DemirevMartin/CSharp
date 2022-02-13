@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Library\bin\Debug\Library.exe.config
+C:\Users\zlati\Desktop\Информатика\Library\bin\Debug\Library.exe
+C:\Users\zlati\Desktop\Информатика\Library\bin\Debug\Library.pdb
+C:\Users\zlati\Desktop\Информатика\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Library\obj\Debug\Library.exe
+C:\Users\zlati\Desktop\Информатика\Library\obj\Debug\Library.pdb

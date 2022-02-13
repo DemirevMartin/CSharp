@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Стойности в диапазон\Стойности в диапазон\obj\Debug\Стойности в диапазон.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Стойности в диапазон\Стойности в диапазон\bin\Debug\Стойности в диапазон.exe.config
+C:\Users\zlati\Desktop\ИТ\Стойности в диапазон\Стойности в диапазон\bin\Debug\Стойности в диапазон.exe
+C:\Users\zlati\Desktop\ИТ\Стойности в диапазон\Стойности в диапазон\bin\Debug\Стойности в диапазон.pdb
+C:\Users\zlati\Desktop\ИТ\Стойности в диапазон\Стойности в диапазон\obj\Debug\Стойности в диапазон.exe
+C:\Users\zlati\Desktop\ИТ\Стойности в диапазон\Стойности в диапазон\obj\Debug\Стойности в диапазон.pdb

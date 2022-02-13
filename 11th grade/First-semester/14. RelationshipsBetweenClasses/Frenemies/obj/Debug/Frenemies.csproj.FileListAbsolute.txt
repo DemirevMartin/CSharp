@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Frenemies\bin\Debug\Frenemies.exe.config
+C:\Users\zlati\Desktop\Информатика\Frenemies\bin\Debug\Frenemies.exe
+C:\Users\zlati\Desktop\Информатика\Frenemies\bin\Debug\Frenemies.pdb
+C:\Users\zlati\Desktop\Информатика\Frenemies\obj\Debug\Frenemies.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Frenemies\obj\Debug\Frenemies.exe
+C:\Users\zlati\Desktop\Информатика\Frenemies\obj\Debug\Frenemies.pdb

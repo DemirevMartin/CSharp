@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\zlati\Desktop\Информатика\Shapes\bin\Debug\Shapes.exe
+C:\Users\zlati\Desktop\Информатика\Shapes\bin\Debug\Shapes.pdb
+C:\Users\zlati\Desktop\Информатика\Shapes\obj\Debug\Shapes.exe
+C:\Users\zlati\Desktop\Информатика\Shapes\obj\Debug\Shapes.pdb

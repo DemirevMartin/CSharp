@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Сериен номер на изделие\Сериен номер на изделие\obj\Debug\Сериен номер на изделие.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Сериен номер на изделие\Сериен номер на изделие\bin\Debug\Сериен номер на изделие.exe.config
+C:\Users\zlati\Desktop\ИТ\Сериен номер на изделие\Сериен номер на изделие\bin\Debug\Сериен номер на изделие.exe
+C:\Users\zlati\Desktop\ИТ\Сериен номер на изделие\Сериен номер на изделие\bin\Debug\Сериен номер на изделие.pdb
+C:\Users\zlati\Desktop\ИТ\Сериен номер на изделие\Сериен номер на изделие\obj\Debug\Сериен номер на изделие.exe
+C:\Users\zlati\Desktop\ИТ\Сериен номер на изделие\Сериен номер на изделие\obj\Debug\Сериен номер на изделие.pdb

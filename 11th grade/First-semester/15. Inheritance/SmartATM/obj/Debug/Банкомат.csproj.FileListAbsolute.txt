@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Банкомат\obj\Debug\Банкомат.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Банкомат\bin\Debug\Банкомат.exe.config
+C:\Users\zlati\Desktop\Информатика\Банкомат\bin\Debug\Банкомат.exe
+C:\Users\zlati\Desktop\Информатика\Банкомат\bin\Debug\Банкомат.pdb
+C:\Users\zlati\Desktop\Информатика\Банкомат\obj\Debug\Банкомат.exe
+C:\Users\zlati\Desktop\Информатика\Банкомат\obj\Debug\Банкомат.pdb

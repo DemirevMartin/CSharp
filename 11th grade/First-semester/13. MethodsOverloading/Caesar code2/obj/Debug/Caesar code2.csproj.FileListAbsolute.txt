@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Caesar code2\obj\Debug\Caesar code2.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Caesar code2\bin\Debug\Caesar code2.exe.config
+C:\Users\zlati\Desktop\Информатика\Caesar code2\bin\Debug\Caesar code2.exe
+C:\Users\zlati\Desktop\Информатика\Caesar code2\bin\Debug\Caesar code2.pdb
+C:\Users\zlati\Desktop\Информатика\Caesar code2\obj\Debug\Caesar code2.exe
+C:\Users\zlati\Desktop\Информатика\Caesar code2\obj\Debug\Caesar code2.pdb

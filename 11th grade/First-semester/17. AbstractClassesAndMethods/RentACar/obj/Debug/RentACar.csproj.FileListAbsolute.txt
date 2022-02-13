@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\zlati\Desktop\Информатика\RentACar\bin\Debug\RentACar.exe
+C:\Users\zlati\Desktop\Информатика\RentACar\bin\Debug\RentACar.pdb
+C:\Users\zlati\Desktop\Информатика\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\RentACar\obj\Debug\RentACar.exe
+C:\Users\zlati\Desktop\Информатика\RentACar\obj\Debug\RentACar.pdb

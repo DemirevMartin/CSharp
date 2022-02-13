@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Folder and files\obj\Debug\Folder and files.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Folder and files\bin\Debug\Folder and files.exe.config
+C:\Users\zlati\Desktop\Информатика\Folder and files\bin\Debug\Folder and files.exe
+C:\Users\zlati\Desktop\Информатика\Folder and files\bin\Debug\Folder and files.pdb
+C:\Users\zlati\Desktop\Информатика\Folder and files\obj\Debug\Folder and files.exe
+C:\Users\zlati\Desktop\Информатика\Folder and files\obj\Debug\Folder and files.pdb

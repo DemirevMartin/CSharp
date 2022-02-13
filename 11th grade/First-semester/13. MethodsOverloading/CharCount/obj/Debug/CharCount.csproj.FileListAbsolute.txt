@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\CharCount\obj\Debug\CharCount.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\CharCount\bin\Debug\CharCount.exe.config
+C:\Users\zlati\Desktop\Информатика\CharCount\bin\Debug\CharCount.exe
+C:\Users\zlati\Desktop\Информатика\CharCount\bin\Debug\CharCount.pdb
+C:\Users\zlati\Desktop\Информатика\CharCount\obj\Debug\CharCount.exe
+C:\Users\zlati\Desktop\Информатика\CharCount\obj\Debug\CharCount.pdb

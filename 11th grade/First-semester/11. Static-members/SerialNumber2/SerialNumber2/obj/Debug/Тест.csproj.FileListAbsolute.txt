@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\ИТ\Тест\Тест\bin\Debug\Тест.exe.config
+C:\Users\zlati\Desktop\ИТ\Тест\Тест\bin\Debug\Тест.exe
+C:\Users\zlati\Desktop\ИТ\Тест\Тест\bin\Debug\Тест.pdb
+C:\Users\zlati\Desktop\ИТ\Тест\Тест\obj\Debug\Тест.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\ИТ\Тест\Тест\obj\Debug\Тест.exe
+C:\Users\zlati\Desktop\ИТ\Тест\Тест\obj\Debug\Тест.pdb

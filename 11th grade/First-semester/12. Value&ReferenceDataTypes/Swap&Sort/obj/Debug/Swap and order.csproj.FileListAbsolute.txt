@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Swap and order\bin\Debug\Swap and order.exe.config
+C:\Users\zlati\Desktop\Информатика\Swap and order\bin\Debug\Swap and order.exe
+C:\Users\zlati\Desktop\Информатика\Swap and order\bin\Debug\Swap and order.pdb
+C:\Users\zlati\Desktop\Информатика\Swap and order\obj\Debug\Swap and order.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Swap and order\obj\Debug\Swap and order.exe
+C:\Users\zlati\Desktop\Информатика\Swap and order\obj\Debug\Swap and order.pdb

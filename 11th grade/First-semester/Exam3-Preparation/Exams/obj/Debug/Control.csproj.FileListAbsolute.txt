@@ -1,0 +1,6 @@
+C:\Users\zlati\Desktop\Информатика\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\zlati\Desktop\Информатика\Control\bin\Debug\Control.exe.config
+C:\Users\zlati\Desktop\Информатика\Control\bin\Debug\Control.exe
+C:\Users\zlati\Desktop\Информатика\Control\bin\Debug\Control.pdb
+C:\Users\zlati\Desktop\Информатика\Control\obj\Debug\Control.exe
+C:\Users\zlati\Desktop\Информатика\Control\obj\Debug\Control.pdb
